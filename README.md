@@ -19,35 +19,66 @@ DSC160 Data Science and the Arts - Final Project Repository - Spring 2020
    By creating new dialogue between characters in Phineas and Ferb, we hope that the resulting conversations will be similar to those we would expect to occur within the show, especially given the predictable nature of each episode. This project has particular resonance with us because we, like many others in our age group, grew up watching this tv show. Phineas and Ferb is known for elevating a very simple formula with self-awareness, high quality writing, and even a musical number for every episode. There is a specific format to this show, with common lines and tropes in every episode, delivering humor that holds up across age groups. Now that the show has ended, it’d be nice to see what new adventures Phineas and Ferb will take us, even if we’re making the adventures ourselves.
 
 
-
-## Data
-
+## Data and Model
 (10 points)
 
+In the final submission, this section will describe both the data you use for this project and any pre-existing models/neural nets. For each you should provide the name, a textual description, and a link. If there is a paper (for neural net) link that as well.
 
-## Code
-
+Such and such Neural Net. The short description of this neural net.
+link to code.
+Title of Paper with Link.
+Training data. Short description of training data including bibliographic info. link to data.
+Code
 (20 points)
 
+This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for:
+
+- code for data acquisition/scraping
+- code for preprocessing
+- training code (if appropriate)
+- generative methods
+- Link each of these items to your .ipynb or .py files within this seection, and provide a brief explanation of what the code does. 
+
+Reading this section we should have a sense of how to run your code.
 
 ## Results
-
 (30 points)
 
+This section should summarize your results and will embed links to documentation to significant outputs. This should document both process and show artistic results. This can include figures, sound files, videos, bitmaps, as appropriate to your generative art idea. Each result should include a brief textual description, and all should be listed below:
+
+image files (.jpg, .png or whatever else is appropriate)
+audio files (.wav, .mp3)
+written text as .pdf
 
 ## Discussion
+(30 points, three to five paragraphs)
 
-(30 points)
+The first paragraph should be a short summary describing your results.
 
+The subsequent paragraphs could address questions including:
+
+Why is this culturally innovative?
+How does your generative computational approach differ from traditional art/music/cultural production?
+How do your results relate to broader social, cultural, economic political, etc., issues?
+What are the ethical concerns for this form of generative art?
+In what future directions could you expand this work?
 
 ## Team Roles
+Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
 
 ## Technical Notes and Dependencies
+Any implementation details or notes we need to repeat your work.
 
-Non-DataHub Libraries:
-
+- Additional libraries you are using for this project
+- Does this code require other pip packages, software, etc?
+- Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
+All references to papers, techniques, previous work, repositories you used should be collected at the bottom:
+
+- Papers
+- Repositories
+- Blog posts
 
 References to any papers, techniques, repositories you used:
 - https://medium.com/@hellohitesh/i-miss-the-office-so-i-made-an-ai-write-me-new-scripts-c4a14af4dd86
