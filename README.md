@@ -81,6 +81,8 @@ All references to papers, techniques, previous work, repositories you used shoul
 - Blog posts
 
 References to any papers, techniques, repositories you used:
+- (phineas and ferb Wiki) https://phineasandferb.fandom.com/wiki/Category:Transcripts?fbclid=IwAR1EodrmPi2iSQf6V3o4SyNi6HjtkxKVBt5jQVprb8KdoHkxQDOejLcc-2w
+- (github repo with data acquisition code) https://github.com/captainsidd/phineas-ferb?fbclid=IwAR38xoa73tXriARxu99wDnVukd7SqZw-7idDDKXRMGSQpOBoSbkwwfgM5ps
 - https://medium.com/@hellohitesh/i-miss-the-office-so-i-made-an-ai-write-me-new-scripts-c4a14af4dd86
 - https://github.com/minimaxir/gpt-2-simple
 - https://github.com/openai/gpt-2/
