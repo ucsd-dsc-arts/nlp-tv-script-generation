@@ -34,13 +34,9 @@ Training data. Short description of training data including bibliographic info. 
 
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for:
 
-- code for data acquisition/scraping
-- code for preprocessing
-- training code (if appropriate)
-- generative methods
-- Link each of these items to your .ipynb or .py files within this seection, and provide a brief explanation of what the code does. 
+- [Data Scraping and Preprocessing](https://github.com/ucsd-dsc-arts/dsc160-final-group2/blob/master/data_cleaning.ipynb): This notebook contains the code we used to scrape the [Phineas and Ferb Wiki page](https://phineasandferb.fandom.com/wiki/Category:Transcripts?fbclid=IwAR1EodrmPi2iSQf6V3o4SyNi6HjtkxKVBt5jQVprb8KdoHkxQDOejLcc-2w) for episode transcripts, and the code we used to format the text to be inputted into the GPT-2 simple model.
+- [generative methods and training code](https://github.com/ucsd-dsc-arts/dsc160-final-group2/blob/master/gpt2_simple_model.ipynb): This notebook contains the code we used to finetune the GPT-2 simple model, and code we used to generate new episode transcripts.
 
-Reading this section we should have a sense of how to run your code.
 
 ## Results
 (30 points)
@@ -82,7 +78,6 @@ All references to papers, techniques, previous work, repositories you used shoul
 - Blog posts
 
 References to any papers, techniques, repositories you used:
-- (phineas and ferb Wiki) https://phineasandferb.fandom.com/wiki/Category:Transcripts?fbclid=IwAR1EodrmPi2iSQf6V3o4SyNi6HjtkxKVBt5jQVprb8KdoHkxQDOejLcc-2w
 - (github repo with data acquisition code) https://github.com/captainsidd/phineas-ferb?fbclid=IwAR38xoa73tXriARxu99wDnVukd7SqZw-7idDDKXRMGSQpOBoSbkwwfgM5ps
 - https://medium.com/@hellohitesh/i-miss-the-office-so-i-made-an-ai-write-me-new-scripts-c4a14af4dd86
 - https://github.com/minimaxir/gpt-2-simple
