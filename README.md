@@ -28,7 +28,8 @@ Such and such Neural Net. The short description of this neural net.
 link to code.
 Title of Paper with Link.
 Training data. Short description of training data including bibliographic info. link to data.
-Code
+
+## Code
 (20 points)
 
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for:
