@@ -32,8 +32,8 @@ Training data. Short description of training data including bibliographic info. 
 We used the small-size GPT-2 model from this paper to create our new transcript. GPT stands for Generative Pretrained Transformer. The GPT-2 model uses transfer learning and a transformation architecture to generate new text based on previous tokens. The pretraining that the model has undergone is sourced from a large amount of very diverse text data, giving it a vocabulary far beyond what we contribute in fine tuning. In order to finetune the GPT-2 model, we pass a txt file to train on and number of steps, along with some other parameters. The higher the number of steps, the more distinct the text. We passed in the transcripts from every Phineas and Ferb episode for the GPT-2 model to finetune on, which caters the output of the model to match the format and language of Phineas and Ferb. 
 
 The data is in a typical script format:
-(*describe scene*)
-Character: *line here*
+<br>(*describe scene*)
+<br>Character: *line here*
 
 The data was found already scraped from the [Phineas and Ferb Wiki page](https://phineasandferb.fandom.com/wiki/Category:Transcripts?fbclid=IwAR1EodrmPi2iSQf6V3o4SyNi6HjtkxKVBt5jQVprb8KdoHkxQDOejLcc-2w) in [this repository](https://github.com/captainsidd/phineas-ferb?fbclid=IwAR38xoa73tXriARxu99wDnVukd7SqZw-7idDDKXRMGSQpOBoSbkwwfgM5ps) by user, captainsidd, who also performed his own analysis on the data. We combined all transcripts into one text file to pass into the GPT-2 model.
 
