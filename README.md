@@ -42,7 +42,7 @@ The data was found already scraped from the [Phineas and Ferb Wiki page](https:/
 
 - <b>[Final Generated Episode Transcript](link)</b>
 - <b>[Temperature Parameter Tuning](https://github.com/ucsd-dsc-arts/dsc160-final-group2/blob/master/Samples_by_Temperature.pdf)</b>
-- <b>[Bloopers](https://github.com/ucsd-dsc-arts/dsc160-final-group2/blob/master/Phineas%20and%20Ferb%20Generated%20Bloopers.pdf)</b>
+- <b>[Bloopers](https://github.com/ucsd-dsc-arts/dsc160-final-group2/blob/master/Phineas_and_Ferb_Generated_Bloopers.pdf)</b>
 
 The PDF with our samples of different temperature parameters is linked above. As you see in the above samples, we see a trend of changes as we alter the temperature parameter. At low temperatures, for example 0.2, the creativity and innovation of our model is at its lowest. The model repeats the same lines over and over again and does not make work towards a storyline. As we increase the temperature, in the range of 0.5~1 we have our best results. We have a storyline in the generated samples and we do not have many meaningless words or combinations of words. We ended up using the default temperature of 0.7 to make our final script. As our temperatures went above 1, we started to see more and more meaningless words and sentences. As our samples of temp = 2 and especially temp = 5 shows, the model starts generating random words and meaningless scripts.
 
