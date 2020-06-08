@@ -39,7 +39,7 @@ The data was found already scraped from the [Phineas and Ferb Wiki page](https:/
 ## Results
 
 
-- <b>[Final Generated Episode Transcript](link)</b>
+- <b>[Final Generated Episode Transcript](https://github.com/ucsd-dsc-arts/dsc160-final-group2/blob/master/Phineas_and_Ferb_Final_Generative_Episode.pdf)</b>
 - <b>[Temperature Parameter Tuning](https://github.com/ucsd-dsc-arts/dsc160-final-group2/blob/master/Samples_by_Temperature.pdf)</b>
 - <b>[Bloopers](https://github.com/ucsd-dsc-arts/dsc160-final-group2/blob/master/Phineas_and_Ferb_Generated_Bloopers.pdf)</b>
 
@@ -79,6 +79,7 @@ We want to take the next step to find audio snippets of the characters and use G
 * Fine-tuned GPT-2 simple model
 * Generated new <i>Phineas and Ferb</i> scenes
 * Helped create framework for final episode
+* Helped put together final script
 * Helped add visuals to final result
 
 <br><b>Rebecca Hu: </b>
@@ -86,11 +87,13 @@ We want to take the next step to find audio snippets of the characters and use G
 * Fine-tuned GPT-2 model
 * Generated new <i>Phineas and Ferb</i> scenes
 * Helped create framework for final episode
+* Helped put together final script
 * Contributed to writing various sections of the final report
 
 <br><b>Farhood Ensan</b>
 * Searched and found the repo that had the scripts
 * Organized samples of different temperatures in the pdf
+* Helped put together final script
 * Contributed to writing various sections of the final report
 <br>
 
