@@ -79,6 +79,7 @@ We want to take the next step to find audio snippets of the characters and use G
 * Fine-tuned GPT-2 simple model
 * Generated new <i>Phineas and Ferb</i> scenes
 * Helped create framework for final episode
+* Helped put together final script
 * Helped add visuals to final result
 
 <br><b>Rebecca Hu: </b>
