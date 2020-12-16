@@ -1,6 +1,6 @@
-# Final Project
+# NLP Based TV Script Analysis and Narrative Prose Generation - <i>Phineas and Ferb</i>
 
-DSC160 Data Science and the Arts - Final Project Repository - Spring 2020
+Data Science and the Arts - Spring 2020
 
 <b> Project Team Members: </b>
 - Farhood Ensan, fensan@ucsd.edu
